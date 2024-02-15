@@ -12,9 +12,9 @@ dependencies:
   - openmm=7.7
   - ninja
   - pdbfixer
-  - cudatoolkit==11.3.0
-  - cuda==11.3.0
-  - cudatoolkit-dev==11.3.0
+  - cudatoolkit==11.3.*
+  - cuda==11.3.*
+  - cudatoolkit-dev==11.3.*
   - pytorch-lightning==1.5.10
   - biopython==1.79
   - numpy==1.21
